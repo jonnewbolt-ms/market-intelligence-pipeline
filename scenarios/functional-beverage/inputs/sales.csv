@@ -1,0 +1,7 @@
+period,sku,channel,units,revenue_usd,cost_usd,repeat_purchase_pct,note
+2026-08,Original Spark,convenience,18000,39600,23760,31,SYNTHETIC established core SKU
+2026-09,Original Spark,convenience,18400,40480,24288,32,SYNTHETIC mature distribution
+2026-08,Low Sugar Lime,convenience,7600,18240,10944,27,SYNTHETIC limited distribution
+2026-09,Low Sugar Lime,convenience,8400,20160,12096,29,SYNTHETIC promo-supported growth; causal attribution unavailable
+2026-08,Botanical Boost,gym,3200,10240,7680,16,SYNTHETIC prior functional pilot; premium bottle and complex claim
+2026-09,Botanical Boost,gym,2100,6720,5040,14,SYNTHETIC weak repeat; packaging causality unproven

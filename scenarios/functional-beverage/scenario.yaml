@@ -1,0 +1,14 @@
+name: Northstar Beverages - Functional refreshment
+question: Should Northstar pilot a lower-sugar functional beverage, and which audience, channel, and product proposition should it test first?
+synthetic: true
+default_model: gpt-5-mini
+batch_size: 8
+max_records: 10000
+expert_evidence_limit: 60
+sources:
+  - path: inputs/market-research.md
+    kind: research
+  - path: inputs/sales.csv
+    kind: internal
+  - path: inputs/social.json
+    kind: social
